@@ -1,0 +1,738 @@
+/*large: 1280px. */
+@media only screen and (max-width: 1465px) {
+  .tabInfo3rd__three--second {
+    margin-right: 30px;
+  }
+
+  .tabInfo3rd__three2 div input {
+    width: 90%;
+  }
+
+  /* <!-- Tab button four -->   */
+  .tabInfo3rd__four3--main {
+    margin-left: 0;
+  }
+
+  /* <!-- Tab button five -->   */
+
+  .tabInfo3rd__five4--box2 {
+    width: 100%;
+  }
+
+  .tabInfo3rd__five4--box2 div textarea {
+    width: 100%;
+  }
+
+  .six__box2--main2 {
+    margin-top: 20px;
+  }
+}
+
+@media only screen and (max-width: 1445px) {
+  /* menu bar  */
+  .main-menu__input div {
+    margin-top: 10px;
+  }
+
+  /* avater section*/
+  .avater__info3rd {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+  /* 3rd part start_  */
+
+  .excelbox3rd__all label {
+    margin-bottom: 10px;
+  }
+
+  .excelbox3rd__allone {
+    margin-top: 42px;
+  }
+
+  .tabInfo3rd__main1st--five {
+    margin-left: 15px;
+  }
+
+  /* <!-- Tab button four -->   */
+  .tabInfo3rd__four6--box {
+    height: auto;
+  }
+
+  .tabInfo3rd__four6--box div input {
+    width: 82%;
+  }
+
+  /* <!-- Tab button five -->   */
+
+  .five8__form {
+    display: block;
+  }
+
+  .five8__form--text2 {
+    margin-left: 0;
+  }
+
+  .five8__form div textarea {
+    width: 100%;
+  }
+
+  .five8__box2--check div:nth-child(2) {
+    order: 4;
+  }
+}
+
+/* Medium Layout: 1280px. */
+@media only screen and (max-width: 1199px) {
+  /* menu bar  */
+  .main-menu__input div {
+    margin-top: 15px;
+    margin-left: 15px;
+  }
+
+  /* avater section*/
+
+  .avater__info {
+    margin-right: 200px;
+  }
+
+  .avater__info2nd {
+    margin-top: 15px;
+    margin-left: 0;
+  }
+
+  /* 3rd part start_  */
+
+  .excelbox3rd__five {
+    margin-right: 20px;
+  }
+
+  .excelbox3rd__six {
+    margin-left: 0;
+  }
+
+  .excelbox3rd__two--head div select {
+    width: 155px;
+  }
+
+  /* Tab button Two  */
+  .firstbox__row1 {
+    display: block;
+  }
+
+  .firstbox__row1--check {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+  .firstbox__row1--text2 {
+    margin-top: 5px;
+    margin-left: 0;
+  }
+
+  .firstbox__row1 .firstbox__row1--select2 select {
+    width: 150px;
+    margin: 10px 0;
+  }
+
+  /* <!-- Tab button Three -->   */
+  .tabInfo3rd__three--first {
+    margin-right: 30px;
+  }
+
+  .tabInfo3rd__three--second {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+
+  .tabInfo3rd__three--third {
+    margin-top: 10px;
+  }
+
+  .tabInfo3rd__three2 div input {
+    width: 80%;
+  }
+
+  /* <!-- Tab button four -->   */
+  .tabInfo3rd__four1 div input {
+    width: 700px;
+  }
+
+  /* <!-- Tab button five -->   */
+
+  .tabInfo3rd__five2--box1 {
+    margin-right: 0;
+  }
+
+  .five8__box2--check {
+    display: block;
+  }
+
+  /* tab__button seven  */
+  .seven__main--textarea {
+    width: 500px;
+  }
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (max-width: 991px) {
+  /* menu bar  */
+
+  /* avater section*/
+
+  .avater__info3rd {
+    margin-left: 20px;
+    margin-top: 15px;
+  }
+
+  /* 3rd part start_  */
+
+  .excelbox3rd__six {
+    margin-left: 20px;
+  }
+
+  .excelbox3rd__three {
+    margin-right: 20px;
+  }
+
+  .excelbox3rd__two--head div select {
+    width: 154px;
+  }
+
+  .tabInfo3rd__main2nd--first {
+    border: none;
+  }
+
+  /* table info  */
+  .tabInfo3rd__main3rd {
+    margin-top: 12px;
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+
+  /* Tab button Two  */
+
+  .firstbox__row1--area textarea {
+    width: 505px;
+    height: 70px;
+  }
+
+  /* tab button three  */
+
+  /* <!-- Tab button four -->   */
+  .tabInfo3rd__four1 div input {
+    width: 500px;
+  }
+
+  .tabInfo3rd__four4 {
+    margin-right: 0;
+  }
+
+  .tabInfo3rd__four4--box {
+    margin-bottom: 15px;
+  }
+
+  /* <!-- Tab button five -->   */
+
+  .five3--box2__head {
+    width: 97%;
+  }
+
+  .five3--box2__text textarea {
+    width: 100%;
+  }
+
+  .tabInfo3rd__five4--box1 {
+    margin-right: 0;
+  }
+
+  /* <!-- Tab button Six -->  */
+
+  .six__box1--div {
+    display: block;
+  }
+
+  .six__box1--div div input {
+    width: 100%;
+  }
+
+  .six__box1--text {
+    margin-left: 0;
+  }
+
+  .six__box1--main3,
+  .six__box1--main4 {
+    width: 100%;
+    border: none;
+    padding: 15px 0;
+  }
+
+  .six__box2--main {
+    display: block;
+  }
+
+  .six__box2--mainresponsive div {
+    width: 100%;
+  }
+
+  .six__box2--div div input {
+    width: 100%;
+  }
+
+  .six__box2--main4 {
+    width: 100%;
+  }
+
+  .six__box2--text {
+    margin-left: 0;
+  }
+  /* tab button seven  */
+}
+
+/* Mobile Layout: 576px. */
+@media only screen and (max-width: 767px) {
+  .hidefor--mobile {
+    display: none;
+  }
+
+  /* menu bar  */
+
+  .main-menu__button {
+    margin-bottom: 10px;
+  }
+
+  .main-menu__input div {
+    margin-top: 10px;
+    margin-left: 15px;
+  }
+
+  .main-menu__input div span {
+    min-width: 84px;
+    display: inline-block;
+  }
+
+  /* avater section*/
+
+  .avater__info {
+    border: none;
+  }
+
+  .avater__info ul li {
+    font-size: 15px;
+  }
+
+  .tabInfo3rd__main2nd--first label {
+    font-size: 15px;
+  }
+
+  .tabInfo3rd__main2nd--first2 div ul li {
+    font-size: 12px;
+  }
+
+  .tabInfo3rd__main2nd--first {
+    max-width: 744px;
+    border: none;
+  }
+
+  /* table info  */
+
+  .tabInfo3rd__maintable {
+    padding-left: 0;
+  }
+
+  .tabInfo3rd__main3rd--table1 {
+    margin-left: -8px;
+  }
+
+  .tabInfo3rd__main3rd--table1 div {
+    font-size: 10px;
+  }
+
+  .tabInfo3rd__main3rd--tablecolor input {
+    width: 50px;
+    height: 12px;
+    font-size: 10px;
+    text-align: left;
+    margin: 0 2px;
+  }
+
+  .tabInfo3rd__main3rd--table2color input {
+    width: 50px;
+    height: 12px;
+    font-size: 10px;
+    text-align: left;
+    margin: 0 2px;
+  }
+
+  .tabInfo3rd__main3rd--table2 {
+    font-size: 10px;
+  }
+
+  /* Tab button Two  */
+
+  .firstbox__row1--area textarea {
+    width: 305px;
+    height: 70px;
+  }
+
+  /* tab button three  */
+  .tabInfo3rd__three--second {
+    margin-left: 0;
+    margin-top: 10px;
+    margin-right: 40px;
+  }
+
+  .tabInfo3rd__three--first2 div ul li {
+    font-size: 12px;
+    margin-right: 0;
+  }
+
+  .tabInfo3rd__three--first {
+    margin-right: -4px;
+    border: none;
+  }
+
+  /* <!-- Tab button four -->   */
+  .tabInfo3rd__four1 div input {
+    width: 300px;
+  }
+
+  .tabInfo3rd__four6--box div input {
+    width: 70%;
+  }
+
+  /* <!-- Tab button five -->   */
+
+  .five2--box1__div {
+    flex-direction: column;
+  }
+
+  .five8__form--input {
+    display: block;
+  }
+
+  /* <!-- Tab button Six -->  */
+
+  .six__box1--main3,
+  .six__box1--main4 {
+    display: block;
+    width: 100%;
+    border: none;
+    padding: 15px 0;
+  }
+
+  .six__box1--main4 div textarea {
+    width: 350px;
+  }
+
+  .six__box2--row1 span {
+    display: block;
+    margin-left: 45px;
+  }
+
+  .six__box2--input input {
+    width: 145px;
+  }
+
+  .six__box2--table {
+    width: 100%;
+  }
+
+  .tabInfo3rd__six--box2 div,
+  .tabInfo3rd__six--box1 div {
+    font-size: 13px;
+  }
+
+  /* tab button seven  */
+  .seven__main--textarea textarea {
+    width: 355px;
+  }
+}
+
+/* Extra Small */
+@media only screen and (max-width: 575px) {
+  /* menu bar  */
+  .main-menu__input div {
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 100%;
+  }
+
+  /* avater section*/
+
+  .avater__info {
+    margin-left: -15px;
+    width: 389px;
+  }
+
+  .avater__main {
+    flex-wrap: wrap;
+  }
+
+  .avater__photo a img {
+    width: 142px;
+    height: 181px;
+    margin-left: 8px;
+  }
+
+  .avater__photo label {
+    width: 142px;
+    margin-left: 8px;
+  }
+
+  .date__position input {
+    width: 142px;
+    margin-left: 8px;
+    font-size: 14px;
+  }
+
+  .avater__infobox--main {
+    margin-left: 8px;
+  }
+
+  .avater__info ul li {
+    font-size: 13px;
+    margin-left: -10px;
+  }
+
+  .avater__infobox input {
+    width: 225px;
+  }
+
+  .avater__infobox--nd input {
+    width: 110px;
+  }
+
+  .avater__infobox select {
+    width: 225px;
+  }
+
+  .avater__info2nd {
+    width: 405px;
+    margin-top: 15px;
+    margin-left: -15px;
+  }
+
+  .fake__box {
+    width: 377px;
+  }
+
+  .avater__info3rd {
+    margin-left: -15px;
+    margin-top: 15px;
+  }
+
+  /* 3rd part start_  */
+  .excelbox3rd__all {
+    margin-left: 15px;
+  }
+
+  .excelbox3rd__allone {
+    margin-left: 15px;
+  }
+
+  /* tab Info 3rd part  */
+
+  /* tabs design  */
+  .tabInfo3rd__tab ul li {
+    width: 110px;
+  }
+
+  .tabInfo3rd__tab ul li .tab__font {
+    font-size: 8px;
+    padding: 6px 0;
+  }
+
+  .tabInfo3rd__tab ul li a {
+    font-size: 10px;
+    border-radius: 4px 4px 0 0;
+  }
+
+  .tabInfo3rd__main1st--three {
+    margin-left: 0;
+    border: none;
+  }
+
+  .tabInfo3rd__main2nd--first {
+    margin-left: 0;
+    border: none;
+  }
+
+  .tabInfo3rd__main2nd--first label {
+    font-size: 14px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+  }
+
+  .tabInfo3rd__main2nd--first2 div ul li {
+    font-size: 10.9px;
+    margin-left: 4px;
+    margin-top: 3px;
+  }
+  /* table info  */
+
+  .tabInfo3rd__main3rd--table1 {
+    margin-left: 15px;
+  }
+
+  .tabInfo3rd__main3rd--tablecolor input {
+    width: 50px;
+    height: 14px;
+    font-size: 10px;
+    text-align: left;
+    margin: 0 2px;
+  }
+
+  .tabInfo3rd__main3rd--table2color input {
+    width: 50px;
+    height: 14px;
+    font-size: 10px;
+    text-align: left;
+    margin: 0 2px;
+  }
+
+  .tabInfo3rd__main3rd--table2 div {
+    font-size: 10px;
+  }
+
+  .tabInfo3rd__main3rd--table1 {
+    flex-wrap: wrap;
+    max-width: 48%;
+  }
+
+  .tabInfo3rd__main3rd--table2 {
+    flex-wrap: wrap;
+    max-width: 30%;
+  }
+
+  .tabInfo3rd__main3rd--margin {
+    margin-left: 0 !important;
+  }
+
+  .tabInfo3rd__main3rd--text {
+    margin-top: 12px;
+  }
+
+  /* Tab button Two  */
+
+  .firstbox__row1--area textarea {
+    width: 205px;
+    height: 70px;
+  }
+
+  .firstbox__row {
+    margin-left: 0;
+  }
+
+  .firstbox__row1--box input,
+  .firstbox__row1 div select {
+    width: 150px;
+    height: 26px;
+  }
+
+  .firstbox__row1--input input {
+    width: 150px;
+  }
+
+  .firstbox__row1--input span {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  /* tab button three  */
+
+  .tabInfo3rd__three--third {
+    margin-top: 10px;
+    margin-left: 0;
+  }
+
+  .tabInfo3rd__three--first {
+    border: none;
+  }
+
+  .tabInfo3rd__three--first2 div {
+    width: 100%;
+  }
+
+  .tabInfo3rd__three2 div input {
+    width: 70%;
+  }
+
+  /* <!-- Tab button four -->   */
+  .tabInfo3rd__four1 div input {
+    width: 200px;
+  }
+
+  .tabInfo3rd__four3--box {
+    margin-right: 0;
+  }
+
+  .tabInfo3rd__four6--boxbutton button {
+    margin-left: 0;
+    margin-top: 5px;
+  }
+
+  /* <!-- Tab button five -->   */
+  .tabInfo3rd__five1--box1,
+  .tabInfo3rd__five1--box2,
+  .tabInfo3rd__five1--box3 {
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .tabInfo3rd__five3--box1 {
+    margin-right: 0;
+  }
+
+  .five3--box2__head {
+    width: 95%;
+  }
+
+  .five4--box1--select {
+    display: block;
+  }
+
+  .tabInfo3rd__five4--box2 p {
+    font-size: 12px;
+  }
+
+  .five8__form {
+    display: block;
+    margin-left: 0;
+  }
+
+  .five8__form--input2 select,
+  .five8__form--input2 input {
+    width: 100%;
+  }
+
+  .tabInfo3rd__five8--box2 {
+    border: none;
+    padding: 15px 0;
+  }
+
+  .five8__box2--check div span {
+    font-size: 11.6px;
+  }
+
+  /* <!-- Tab button Six -->  */
+
+  .six__box1--main4 div textarea {
+    width: 250px;
+  }
+
+  /* tab button seven  */
+  .seven__main--one {
+    width: 300px;
+    padding: 5px;
+  }
+
+  .seven__main--textarea textarea {
+    width: 300px;
+  }
+
+  .tabInfo3rd__seven {
+    padding: 20px 10px;
+  }
+}
